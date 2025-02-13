@@ -6,7 +6,7 @@
 - [comp1238](comp1238.md)
 
 ## My Schedule
-- _ _MONDAY
+- MONDAY__
   - 4:00pm - COMP1236 - FUND. OF COMPUTING LOGIC - ONLINE
   - 6:00PM - COMP1234 - INTO TO WEB DEVELOPMENT - ONLINE
  
